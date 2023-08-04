@@ -1,0 +1,11 @@
+{
+  "showFrontmatter": true,
+  "vimMode": false,
+  "defaultViewMode": "preview",
+  "livePreview": false,
+  "strictLineBreaks": true,
+  "showLineNumber": true,
+  "spellcheckLanguages": null,
+  "focusNewTab": true,
+  "readableLineLength": false
+}
