@@ -1,2 +1,2 @@
-# Note taking
+# Note-taking
  public_reminder
