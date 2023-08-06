@@ -3,10 +3,21 @@
     "migrated": true,
     "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
     "fontSize": 16,
-    "emojiStyle": "none",
-    "iconColor": null,
-    "recentlyUsedIcons": [],
-    "recentlyUsedIconsSize": 5,
+    "emojiStyle": "twemoji",
+    "iconColor": "#ffa53d",
+    "recentlyUsedIcons": [
+      "FabCss3Alt",
+      "SiCsswizardry",
+      "SiGamedeveloper",
+      "SiDatabricks",
+      "SiCss3",
+      "TiManualGearbox",
+      "SiXdadevelopers",
+      "LiStretchVertical",
+      "SiHomeadvisor",
+      "FabDev"
+    ],
+    "recentlyUsedIconsSize": 15,
     "rules": [],
     "extraMargin": {
       "top": 0,
@@ -14,6 +25,14 @@
       "bottom": 0,
       "left": 0
     },
-    "iconInTabsEnabled": false
-  }
+    "iconInTabsEnabled": true
+  },
+  "Library/Development/Tools and resources for Development.md": "TiManualGearbox",
+  "Home.md": "SiHomeadvisor",
+  "Library/Development/Developer.canvas": "SiGamedeveloper",
+  "Library/Development": "FabDev",
+  "Library/CSS": "FabCss3Alt",
+  "Library/CSS/Css_notes.md": "SiCss3",
+  "Library/CSS/CSS CheetSheet.md": "SiDatabricks",
+  "Library/CSS/CSS Flexboxes.md": "LiStretchVertical"
 }

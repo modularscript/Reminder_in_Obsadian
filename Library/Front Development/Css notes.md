@@ -1,2 +1,0 @@
-#### Short notes
-- [[Flexboxes]]

@@ -4,41 +4,81 @@
     "type": "split",
     "children": [
       {
-        "id": "2161068c2f0e080c",
+        "id": "042e4ba57233cb23",
         "type": "tabs",
         "children": [
           {
-            "id": "56178f1385688fb6",
+            "id": "264a720fc02a9f2b",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Library/Front Development/Css notes.md",
+                "file": "Home.md",
                 "mode": "preview",
                 "source": true
-              }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "05d63195740d5caa",
+            "id": "55b2427d4cb57dd4",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "obsidian-projects",
-              "state": {}
-            }
-          },
-          {
-            "id": "3c770e9a4ce40fbd",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-06 13.59.11.excalidraw.md"
-              }
+                "file": "Home.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "671c435e588206f9",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "c3773752a64e0f8d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "41e9a50b519d266d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -104,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-06 13.59.11.excalidraw.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-06 13.59.11.excalidraw.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-06 13.59.11.excalidraw.md"
+                "file": "Home.md"
               }
             }
           },
@@ -200,32 +240,36 @@
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-projects:Open projects": false,
+      "homepage:Open homepage": false,
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "3c770e9a4ce40fbd",
+  "active": "41e9a50b519d266d",
   "lastOpenFiles": [
+    "Library/Development/Tools and resources for Development.md",
+    "Home.md",
+    "Library/Development/Developer.canvas",
     "Excalidraw/Drawing 2023-08-06 13.59.11.excalidraw.md",
-    "Excalidraw",
-    "Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
-    "Projects - Demo Project/What I Learned From Taking 15,000 Notes.md",
+    "Library/CSS/CSS Flexboxes.md",
+    "Library/CSS/CSS CheetSheet.md",
+    "Library/CSS/Css_notes.md",
+    "Library/CSS",
+    "Untitled",
     "Projects - Demo Project/Why You Should Be Taking More Notes.md",
+    "Projects - Demo Project/What I Learned From Taking 15,000 Notes.md",
     "Projects - Demo Project/The Easiest Way to Start Taking Notes.md",
     "Projects - Demo Project/The Best Notes You'll Ever Make.md",
-    "Projects - Demo Project",
-    "Library/Front Development/Css notes.md",
-    "Library/Front Development/CheetSheet.md",
-    "Untitled 1.canvas",
+    "Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
     "Untitled.canvas",
-    "Library/Front Development/Tools for Front Developer.md",
-    "Untitled",
-    "Library/Front Development/Flexboxes.md",
-    "Library/Front Development/Front Developer.canvas",
+    "01_ Tools for Development.md",
+    "Untitled 1.canvas",
     "README.md",
+    "Excalidraw",
+    "Projects - Demo Project",
     "Library/Markdown Formatting/Callout.md",
     "Library/Markdown Formatting/Blockquote.md",
     "^1^.md",
-    "Library/Front Development",
+    "Library/Development",
     "Untitled.md",
     "2023-07-02.md",
     "2023-07-03.md",
@@ -236,9 +280,6 @@
     "Library/Markdown Formatting/Code block.md",
     "Library/Markdown Formatting/Task.md",
     "Library/Markdown Formatting/Table.md",
-    "Library/Markdown Formatting/Strikethrough.md",
-    "Library/Markdown Formatting/Math.md",
-    "Library/Markdown Formatting/Links.md",
     "Library/Markdown Formatting",
     "Front Develop/Untitled.canvas",
     "Library"

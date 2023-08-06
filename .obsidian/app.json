@@ -7,5 +7,6 @@
   "showLineNumber": true,
   "spellcheckLanguages": null,
   "focusNewTab": true,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "alwaysUpdateLinks": true
 }
