@@ -1,10 +1,12 @@
 
 
+
 # Color schemes,fonts, picures etc. visual planning 
 
 
- - [Adobe Color](https://color.adobe.com/)
- - [WebAIM Color Contrast Checker](https://webaim.org/resources/contrastchecker/)
+- [Design resources for developers](https://github.com/bradtraversy/design-resources-for-developers)
+- [Adobe Color](https://color.adobe.com/)
+- [WebAIM Color Contrast Checker](https://webaim.org/resources/contrastchecker/)
  - [Color Safe](http://colorsafe.co/)
  - [BrandColors](https://brandcolors.net/)
  - [Coolors](https://coolors.co/)
@@ -16,4 +18,5 @@
  -  This one is developing structure do not use this [html5-boilerplate](https://github.com/h5bp/html5-boilerplate#quick-start)
  - [html5-boilerplate-template](https://github.com/h5bp/html5-boilerplate-template)
 -  [shadows](https://shadows.brumm.af/)
--  [cssgradient](https://cssgradient.io/)
+- [cssgradient](https://cssgradient.io/)
+- [Octotree](https://www.octotree.io/)

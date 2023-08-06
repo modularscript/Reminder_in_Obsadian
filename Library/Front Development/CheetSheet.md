@@ -19,4 +19,6 @@
 		
 	}	
 ```
-- Descktop layout 1920 X 1080
+- align-items have influence on stretch sometimes
+- background-size: cover;
+- 
