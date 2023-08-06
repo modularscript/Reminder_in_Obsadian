@@ -1,2 +1,2 @@
-# Obsadian
+# Note-taking
  public_reminder
