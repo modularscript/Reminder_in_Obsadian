@@ -20,5 +20,4 @@
 	}	
 ```
 - align-items have influence on stretch sometimes
-- background-size: cover;
-- 
+- background-size: cover

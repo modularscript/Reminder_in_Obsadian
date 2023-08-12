@@ -6,6 +6,8 @@
     "emojiStyle": "twemoji",
     "iconColor": "#ffa53d",
     "recentlyUsedIcons": [
+      "IbGrid",
+      "LiNetwork",
       "FabCss3Alt",
       "SiCsswizardry",
       "SiGamedeveloper",
@@ -34,5 +36,7 @@
   "Library/CSS": "FabCss3Alt",
   "Library/CSS/Css_notes.md": "SiCss3",
   "Library/CSS/CSS CheetSheet.md": "SiDatabricks",
-  "Library/CSS/CSS Flexboxes.md": "LiStretchVertical"
+  "Library/CSS/CSS Flexboxes.md": "LiStretchVertical",
+  "Library/Network_Administrator": "LiNetwork",
+  "Library/CSS/CSS Grids.md": "IbGrid"
 }

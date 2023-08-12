@@ -1,6 +1,6 @@
 {
   "showFrontmatter": true,
-  "vimMode": false,
+  "vimMode": true,
   "defaultViewMode": "preview",
   "livePreview": false,
   "strictLineBreaks": true,

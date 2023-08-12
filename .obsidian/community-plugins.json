@@ -22,5 +22,7 @@
   "obsidian-excalidraw-plugin",
   "supercharged-links-obsidian",
   "highlightr-plugin",
-  "homepage"
+  "homepage",
+  "obsidian-vimrc-support",
+  "vim-toggle"
 ]

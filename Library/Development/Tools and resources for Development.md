@@ -20,3 +20,4 @@
 -  [shadows](https://shadows.brumm.af/)
 - [cssgradient](https://cssgradient.io/)
 - [Octotree](https://www.octotree.io/)
+- [Google Font pairings](https://heyreliable.com/ultimate-google-font-pairings/)
