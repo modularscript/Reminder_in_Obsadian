@@ -6,6 +6,10 @@
     "emojiStyle": "twemoji",
     "iconColor": "#ffa53d",
     "recentlyUsedIcons": [
+      "RiTerminalBoxLine",
+      "SiPhp",
+      "FabPhp",
+      "SiSublimetext",
       "IbGrid",
       "LiNetwork",
       "FabCss3Alt",
@@ -16,8 +20,7 @@
       "TiManualGearbox",
       "SiXdadevelopers",
       "LiStretchVertical",
-      "SiHomeadvisor",
-      "FabDev"
+      "SiHomeadvisor"
     ],
     "recentlyUsedIconsSize": 15,
     "rules": [],
@@ -38,5 +41,8 @@
   "Library/CSS/CSS CheetSheet.md": "SiDatabricks",
   "Library/CSS/CSS Flexboxes.md": "LiStretchVertical",
   "Library/Network_Administrator": "LiNetwork",
-  "Library/CSS/CSS Grids.md": "IbGrid"
+  "Library/CSS/CSS Grids.md": "IbGrid",
+  "Library/Development/Editors": "SiSublimetext",
+  "Library/Development/PHP": "SiPhp",
+  "Library/Development/Terminals": "RiTerminalBoxLine"
 }

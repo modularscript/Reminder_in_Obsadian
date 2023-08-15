@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "538a2dc74f6e4ba3",
+            "id": "9cbb9953c2b2637c",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "dfdefa3d7be510b2",
+            "id": "0c020564590c0495",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -34,9 +34,35 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "ee9938aacb7bfdb2",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "42bf0cf6ca3ab8f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Library/Development/Tools and resources for Development.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -102,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Library/Development/Tools and resources for Development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Library/Development/Tools and resources for Development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Library/Development/Tools and resources for Development.md"
               }
             }
           },
@@ -202,10 +228,18 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "dfdefa3d7be510b2",
+  "active": "42bf0cf6ca3ab8f2",
   "lastOpenFiles": [
     "Home.md",
     "Library/Development/Tools and resources for Development.md",
+    "Library/Development/Terminals/Terminal Cheat Sheet.md",
+    "Library/Development/Editors/Vim Cheatsheet.md",
+    "Library/Development/Terminals/OhMyZsh.md",
+    "Library/Development/Terminals",
+    "Library/Development/PHP/PHP Reference.md",
+    "Library/Development/Editors",
+    "Library/Development/PHP/Composer.md",
+    "Library/Development/PHP",
     "Library/CSS/CSS Grids.md",
     "Library/CSS/CSS CheetSheet.md",
     "Library/CSS/CSS Flexboxes.md",
@@ -233,14 +267,8 @@
     "Library/Markdown Formatting/Blockquote.md",
     "^1^.md",
     "Library/Development",
-    "Untitled.md",
-    "2023-07-02.md",
-    "2023-07-03.md",
     "Biblioteka/Untitled",
-    "Library/Markdown Formatting/Embeds.md",
-    "Library/Markdown Formatting/Lists.md",
     "Library/Markdown Formatting",
-    "Front Develop/Untitled.canvas",
-    "Library"
+    "Front Develop/Untitled.canvas"
   ]
 }
