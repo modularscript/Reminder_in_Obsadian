@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9cbb9953c2b2637c",
+            "id": "6ddb078e7ad8e06e",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -19,50 +19,9 @@
                 "source": true
               },
               "pinned": true
-            }
-          },
-          {
-            "id": "0c020564590c0495",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "preview",
-                "source": true
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "ee9938aacb7bfdb2",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "preview",
-                "source": true
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "42bf0cf6ca3ab8f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Library/Development/Tools and resources for Development.md",
-                "mode": "preview",
-                "source": true
-              }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Library/Development/Tools and resources for Development.md",
+                "file": "Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Library/Development/Tools and resources for Development.md",
+                "file": "Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Library/Development/Tools and resources for Development.md"
+                "file": "Home.md"
               }
             }
           },
@@ -205,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -223,39 +182,41 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "obsidian-projects:Open projects": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "homepage:Open homepage": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-local-images-plus:Local Images Plus  0.15.7\r\nDownload media files": false,
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "42bf0cf6ca3ab8f2",
+  "active": "6ddb078e7ad8e06e",
   "lastOpenFiles": [
-    "Home.md",
+    "Library/Development/CSS/CSS Grids.md",
+    "Library/Development/CSS/CSS Flexboxes.md",
+    "Library/Development/CSS/Css_notes.md",
+    "Library/Development/CSS/01_CSS HOME.md",
     "Library/Development/Tools and resources for Development.md",
-    "Library/Development/Terminals/Terminal Cheat Sheet.md",
     "Library/Development/Editors/Vim Cheatsheet.md",
+    "Home.md",
+    "Library/Development/Terminals/Terminal Cheat Sheet.md",
+    "Library/Development/Terminals/Git Masters.md",
     "Library/Development/Terminals/OhMyZsh.md",
     "Library/Development/Terminals",
     "Library/Development/PHP/PHP Reference.md",
     "Library/Development/Editors",
     "Library/Development/PHP/Composer.md",
     "Library/Development/PHP",
-    "Library/CSS/CSS Grids.md",
-    "Library/CSS/CSS CheetSheet.md",
-    "Library/CSS/CSS Flexboxes.md",
-    "Library/CSS/Css_notes.md",
     "Excalidraw/Drawing 2023-08-06 13.59.11.excalidraw.md",
     "Excalidraw/Drawing 2023-08-09 11.37.54.excalidraw.md",
     "Library/Development/Developer.canvas",
     "Excalidraw/Drawing 2023-08-06 20.04.19.excalidraw.md",
     "2023-08-06.md",
-    "Library/Markdown Formatting/Format your notes.md",
+    "Library/Development/Markdown Formatting/Format your notes.md",
     "Projects - Demo Project/Why You Should Be Taking More Notes.md",
     "Projects - Demo Project/What I Learned From Taking 15,000 Notes.md",
     "Projects - Demo Project/The Easiest Way to Start Taking Notes.md",
     "Projects - Demo Project/The Best Notes You'll Ever Make.md",
     "Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
-    "Library/CSS",
+    "Library/Development/CSS",
     "Untitled",
     "Untitled.canvas",
     "01_ Tools for Development.md",
@@ -263,12 +224,11 @@
     "README.md",
     "Excalidraw",
     "Projects - Demo Project",
-    "Library/Markdown Formatting/Callout.md",
-    "Library/Markdown Formatting/Blockquote.md",
-    "^1^.md",
+    "Library/Development/Markdown Formatting/Callout.md",
+    "Library/Development/Markdown Formatting/Blockquote.md",
     "Library/Development",
     "Biblioteka/Untitled",
-    "Library/Markdown Formatting",
+    "Library/Development/Markdown Formatting",
     "Front Develop/Untitled.canvas"
   ]
 }

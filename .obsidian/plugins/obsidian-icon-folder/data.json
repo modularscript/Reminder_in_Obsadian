@@ -6,6 +6,8 @@
     "emojiStyle": "twemoji",
     "iconColor": "#ffa53d",
     "recentlyUsedIcons": [
+      "TiNotes",
+      "SiMarkdown",
       "RiTerminalBoxLine",
       "SiPhp",
       "FabPhp",
@@ -18,9 +20,7 @@
       "SiDatabricks",
       "SiCss3",
       "TiManualGearbox",
-      "SiXdadevelopers",
-      "LiStretchVertical",
-      "SiHomeadvisor"
+      "SiXdadevelopers"
     ],
     "recentlyUsedIconsSize": 15,
     "rules": [],
@@ -36,13 +36,14 @@
   "Home.md": "SiHomeadvisor",
   "Library/Development/Developer.canvas": "SiGamedeveloper",
   "Library/Development": "FabDev",
-  "Library/CSS": "FabCss3Alt",
-  "Library/CSS/Css_notes.md": "SiCss3",
-  "Library/CSS/CSS CheetSheet.md": "SiDatabricks",
-  "Library/CSS/CSS Flexboxes.md": "LiStretchVertical",
   "Library/Network_Administrator": "LiNetwork",
-  "Library/CSS/CSS Grids.md": "IbGrid",
   "Library/Development/Editors": "SiSublimetext",
   "Library/Development/PHP": "SiPhp",
-  "Library/Development/Terminals": "RiTerminalBoxLine"
+  "Library/Development/Terminals": "RiTerminalBoxLine",
+  "Library/Development/Markdown Formatting": "SiMarkdown",
+  "Library/Development/CSS": "FabCss3Alt",
+  "Library/Development/CSS/CSS Flexboxes.md": "LiStretchVertical",
+  "Library/Development/CSS/CSS Grids.md": "IbGrid",
+  "Library/Development/CSS/01_CSS HOME.md": "SiDatabricks",
+  "Library/Development/CSS/Css_notes.md": "TiNotes"
 }

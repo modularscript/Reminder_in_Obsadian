@@ -1,3 +1,7 @@
+
+### [Layout with Flexbox](https://www.codecademy.com/learn/paths/fecj-22-improved-styling-with-css/tracks/fecj-22-making-a-website-responsive/modules/wdcp-22-layout-with-flexbox-c6c85b4d-0af4-463c-a524-60d812a4b011/cheatsheet)
+
+
 Flexbox, or the Flexible Box Layout Module, is a CSS layout mode that makes it easier to design flexible responsive layout structures without using float or positioning. It is a one-dimensional layout model, meaning that it can lay out items in either a row or a column, but not both at the same time. 
 
 Some of the key properties of Flexbox include:
