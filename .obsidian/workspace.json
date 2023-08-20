@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c2606eade16ee15a",
+            "id": "fcc00be98e59d3ea",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -188,16 +188,19 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "c2606eade16ee15a",
+  "active": "fcc00be98e59d3ea",
   "lastOpenFiles": [
-    "Library/Development/Tools and resources for Development.md",
-    "Library/Development/Terminals/WSL Windows.md",
     "Home.md",
+    "Library/Development/Tools and resources for Development.md",
+    "Library/Network_Administrator/Linux/Linux Commands Cheat Sheet.md",
+    "Library/Network_Administrator/Linux",
+    "bab02fc2516a1d7373ae300cac366fc4_MD5.png",
+    "Library/Development/Editors/Vim Cheatsheet.md",
+    "Library/Development/Terminals/WSL Windows.md",
     "Library/Development/CSS/CSS Grids.md",
     "Library/Development/CSS/CSS Flexboxes.md",
     "Library/Development/CSS/Css_notes.md",
     "Library/Development/CSS/01_CSS HOME.md",
-    "Library/Development/Editors/Vim Cheatsheet.md",
     "Library/Development/Terminals/Terminal Cheat Sheet.md",
     "Library/Development/Terminals/Git Masters.md",
     "Library/Development/Terminals/OhMyZsh.md",
@@ -222,13 +225,10 @@
     "Untitled.canvas",
     "01_ Tools for Development.md",
     "Untitled 1.canvas",
-    "README.md",
     "Excalidraw",
     "Projects - Demo Project",
-    "Library/Development/Markdown Formatting/Callout.md",
     "Library/Development",
     "Biblioteka/Untitled",
-    "Library/Development/Markdown Formatting",
     "Front Develop/Untitled.canvas"
   ]
 }

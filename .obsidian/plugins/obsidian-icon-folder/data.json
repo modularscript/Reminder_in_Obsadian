@@ -6,6 +6,8 @@
     "emojiStyle": "twemoji",
     "iconColor": "#ffa53d",
     "recentlyUsedIcons": [
+      "SiLinux",
+      "SiVim",
       "TiNotes",
       "SiMarkdown",
       "RiTerminalBoxLine",
@@ -18,9 +20,7 @@
       "SiCsswizardry",
       "SiGamedeveloper",
       "SiDatabricks",
-      "SiCss3",
-      "TiManualGearbox",
-      "SiXdadevelopers"
+      "SiCss3"
     ],
     "recentlyUsedIconsSize": 15,
     "rules": [],
@@ -45,5 +45,7 @@
   "Library/Development/CSS/CSS Flexboxes.md": "LiStretchVertical",
   "Library/Development/CSS/CSS Grids.md": "IbGrid",
   "Library/Development/CSS/01_CSS HOME.md": "SiDatabricks",
-  "Library/Development/CSS/Css_notes.md": "TiNotes"
+  "Library/Development/CSS/Css_notes.md": "TiNotes",
+  "Library/Development/Editors/Vim Cheatsheet.md": "SiVim",
+  "Library/Network_Administrator/Linux": "SiLinux"
 }
