@@ -1,0 +1,10 @@
+{
+  "hidden": true,
+  "hiddenList": [
+    "node_modules",
+    "LICENSE",
+    "package.json",
+    "package-lock.json",
+    "yarn.lock"
+  ]
+}

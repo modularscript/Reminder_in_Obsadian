@@ -8,5 +8,12 @@
   "spellcheckLanguages": null,
   "focusNewTab": true,
   "readableLineLength": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": [
+    "node_modules/",
+    "node_modules/*",
+    "*/node_modules/\"",
+    "\"node_modules/*\""
+  ],
+  "showUnsupportedFiles": true
 }

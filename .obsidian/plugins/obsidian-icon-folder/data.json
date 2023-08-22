@@ -2,10 +2,12 @@
   "settings": {
     "migrated": true,
     "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
-    "fontSize": 16,
+    "fontSize": 15,
     "emojiStyle": "twemoji",
     "iconColor": "#ffa53d",
     "recentlyUsedIcons": [
+      "SiTheconversation",
+      "TiRulerMeasure",
       "SiLinux",
       "SiVim",
       "TiNotes",
@@ -18,9 +20,7 @@
       "LiNetwork",
       "FabCss3Alt",
       "SiCsswizardry",
-      "SiGamedeveloper",
-      "SiDatabricks",
-      "SiCss3"
+      "SiGamedeveloper"
     ],
     "recentlyUsedIconsSize": 15,
     "rules": [],
@@ -44,8 +44,13 @@
   "Library/Development/CSS": "FabCss3Alt",
   "Library/Development/CSS/CSS Flexboxes.md": "LiStretchVertical",
   "Library/Development/CSS/CSS Grids.md": "IbGrid",
-  "Library/Development/CSS/01_CSS HOME.md": "SiDatabricks",
   "Library/Development/CSS/Css_notes.md": "TiNotes",
   "Library/Development/Editors/Vim Cheatsheet.md": "SiVim",
-  "Library/Network_Administrator/Linux": "SiLinux"
+  "Library/Network_Administrator/Linux": "SiLinux",
+  "Library/Development/CSS/Relative Measurements.md": {
+    "iconName": "TiRulerMeasure",
+    "inheritanceIcon": "TiRulerMeasure"
+  },
+  "Library/Development/CSS/01_CSS data Sheets.md": "SiDatabricks",
+  "Library/Development/Theory": "SiTheconversation"
 }

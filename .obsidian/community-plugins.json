@@ -25,5 +25,7 @@
   "homepage",
   "obsidian-vimrc-support",
   "vim-toggle",
-  "obsidian-local-images-plus"
+  "obsidian-local-images-plus",
+  "obsidian-dictionary-plugin",
+  "OA-file-hider"
 ]

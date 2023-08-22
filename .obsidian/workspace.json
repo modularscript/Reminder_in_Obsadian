@@ -8,17 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fcc00be98e59d3ea",
+            "id": "99b5c48ddbd76a0d",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Home.md",
-                "mode": "preview",
-                "source": true
-              },
-              "pinned": true
+                "file": "bab02fc2516a1d7373ae300cac366fc4_MD5.png"
+              }
+            }
+          },
+          {
+            "id": "c5e66886b59b6b80",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {}
             }
           }
         ]
@@ -87,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "bab02fc2516a1d7373ae300cac366fc4_MD5.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "bab02fc2516a1d7373ae300cac366fc4_MD5.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "bab02fc2516a1d7373ae300cac366fc4_MD5.png"
               }
             }
           },
@@ -173,6 +177,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-local-images-plus:Local Images Plus  0.15.7\r\nDownload media files": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -182,53 +187,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "obsidian-projects:Open projects": false,
-      "homepage:Open homepage": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-local-images-plus:Local Images Plus  0.15.7\r\nDownload media files": false,
+      "homepage:Open homepage": false,
+      "workspaces:Manage workspace layouts": false,
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "fcc00be98e59d3ea",
+  "active": "99b5c48ddbd76a0d",
   "lastOpenFiles": [
-    "Home.md",
-    "Library/Development/Tools and resources for Development.md",
-    "Library/Network_Administrator/Linux/Linux Commands Cheat Sheet.md",
-    "Library/Network_Administrator/Linux",
+    "Untitled.canvas",
     "bab02fc2516a1d7373ae300cac366fc4_MD5.png",
+    "2023-08-22.md",
+    "Excalidraw/Drawing 2023-08-22 11.57.09.excalidraw.md",
+    "d0bbdc38b308ac7de7bf8d149cc5b6b9_MD5.svg",
+    "Home.md",
+    "Excalidraw",
+    "Library/Development/Tools and resources for Development.md",
+    "Library/Development/CSS/Relative Measurements.md",
     "Library/Development/Editors/Vim Cheatsheet.md",
+    "Library/Development/PHP/01_HOME.md",
+    "Library/Development/Terminals/01_HOME.md",
+    "Library/Development/Theory/01_HOME.md",
+    "Library/Development/Theory",
+    "node_modules/@excalidraw/excalidraw/types/packages/excalidraw/dist/excalidraw-assets-dev/locales/zh-TW-json-5c0415fa2e3076904544.d.ts",
+    "node_modules/@excalidraw/excalidraw/types/packages/excalidraw/dist/excalidraw-assets-dev/locales/zh-HK-json-2e545ed460deb9818584.d.ts",
+    "node_modules/@excalidraw/excalidraw/types/packages/excalidraw/dist/excalidraw-assets-dev/locales/zh-CN-json-e5e59a1cd383192a1792.d.ts",
+    "node_modules/@excalidraw/excalidraw/types/packages/excalidraw/dist/excalidraw-assets-dev/locales/vi-VN-json-fe2d25d75865c608e798.d.ts",
+    "node_modules/@excalidraw/excalidraw/types/packages/excalidraw/dist/excalidraw-assets-dev/locales/uk-UA-json-2cd06c30d512defd8a0b.d.ts",
+    "node_modules/@excalidraw/excalidraw/types/packages/excalidraw/dist/excalidraw-assets-dev/locales/tr-TR-json-e43e35aa81edeb9058ee.d.ts",
+    "node_modules/@excalidraw/excalidraw/types/packages/excalidraw/dist/excalidraw-assets-dev/locales/th-TH-json-523e92f9f3b6924c3f66.d.ts",
+    "node_modules/@excalidraw/excalidraw/types/packages/excalidraw/dist/excalidraw-assets-dev/locales/ta-IN-json-30fffc9f1cedf1d559d8.d.ts",
+    "node_modules/@excalidraw/excalidraw/README.md",
+    "node_modules/@excalidraw/excalidraw/CHANGELOG.md",
+    "Library/Development/CSS/01_CSS Sheets.md",
+    "Library/Network_Administrator/Windows/PWSH.md",
+    "Library/Network_Administrator/Linux/Linux Commands Cheat Sheet.md",
     "Library/Development/Terminals/WSL Windows.md",
     "Library/Development/CSS/CSS Grids.md",
     "Library/Development/CSS/CSS Flexboxes.md",
     "Library/Development/CSS/Css_notes.md",
-    "Library/Development/CSS/01_CSS HOME.md",
     "Library/Development/Terminals/Terminal Cheat Sheet.md",
     "Library/Development/Terminals/Git Masters.md",
     "Library/Development/Terminals/OhMyZsh.md",
-    "Library/Development/Terminals",
     "Library/Development/PHP/PHP Reference.md",
-    "Library/Development/Editors",
     "Library/Development/PHP/Composer.md",
-    "Library/Development/PHP",
     "Excalidraw/Drawing 2023-08-06 13.59.11.excalidraw.md",
     "Excalidraw/Drawing 2023-08-09 11.37.54.excalidraw.md",
     "Library/Development/Developer.canvas",
-    "Excalidraw/Drawing 2023-08-06 20.04.19.excalidraw.md",
-    "2023-08-06.md",
-    "Library/Development/Markdown Formatting/Format your notes.md",
-    "Projects - Demo Project/Why You Should Be Taking More Notes.md",
-    "Projects - Demo Project/What I Learned From Taking 15,000 Notes.md",
-    "Projects - Demo Project/The Easiest Way to Start Taking Notes.md",
-    "Projects - Demo Project/The Best Notes You'll Ever Make.md",
-    "Projects - Demo Project/5 Mistakes I Made When I Started Using Obsidian.md",
-    "Library/Development/CSS",
-    "Untitled",
-    "Untitled.canvas",
-    "01_ Tools for Development.md",
     "Untitled 1.canvas",
-    "Excalidraw",
-    "Projects - Demo Project",
-    "Library/Development",
-    "Biblioteka/Untitled",
     "Front Develop/Untitled.canvas"
   ]
 }

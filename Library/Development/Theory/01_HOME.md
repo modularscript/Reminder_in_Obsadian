@@ -1,0 +1,1 @@
+ - Paradigms [hyperskill](https://hyperskill.org/learn/step/15860)
