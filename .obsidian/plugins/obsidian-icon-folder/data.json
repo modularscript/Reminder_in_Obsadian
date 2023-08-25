@@ -6,6 +6,7 @@
     "emojiStyle": "twemoji",
     "iconColor": "#ffa53d",
     "recentlyUsedIcons": [
+      "SiJavascript",
       "SiTheconversation",
       "TiRulerMeasure",
       "SiLinux",
@@ -19,8 +20,7 @@
       "IbGrid",
       "LiNetwork",
       "FabCss3Alt",
-      "SiCsswizardry",
-      "SiGamedeveloper"
+      "SiCsswizardry"
     ],
     "recentlyUsedIconsSize": 15,
     "rules": [],
@@ -52,5 +52,6 @@
     "inheritanceIcon": "TiRulerMeasure"
   },
   "Library/Development/CSS/01_CSS data Sheets.md": "SiDatabricks",
-  "Library/Development/Theory": "SiTheconversation"
+  "Library/Development/Theory": "SiTheconversation",
+  "Library/Development/JavaScript": "SiJavascript"
 }
